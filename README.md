@@ -9,6 +9,9 @@ Links to Service Catalog resources to supplement our talk at Red Hat Summit 2017
  * [Walkthrough](https://github.com/kubernetes-incubator/service-catalog/blob/master/docs/walkthrough.md)
  * Slack: #service-catalog on [kubernetes slack](https://slack.k8s.io)
 
+## Broker SDK
+* [Git Repo](https://github.com/openshift/open-service-broker-sdk)
+
 ## Ansible Service Broker
 * Email:  ansible-service-broker@redhat.com
 * IRC (Freenode): #asbroker
